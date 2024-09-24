@@ -8,5 +8,6 @@ namespace BankingApi.Models
 		public bool EmailConfirmed { get; set; }
 		public bool PhoneNumberConfirmed { get; set; }
 		public bool TwoFactorEnabled { get; set; }
+
 	}
 }
